@@ -9,6 +9,7 @@
 6. remove special characters
 7. remove elongation
 8. remove redundant punct
+9. keep emoji
 
 
 ## To-do
